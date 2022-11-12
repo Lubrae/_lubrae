@@ -1,5 +1,4 @@
 :root {
-    test
     /*
     Colors - pulled from https://nipponcolors.com
 
@@ -9,7 +8,7 @@
     */
     --color-black-hsl: 0 0% 11%; /* #1C1C1C */
     --color-black: hsl(var(--color-black-hsl));
-    --color-orange-hsl: 19 88% 53%; /* #F05E1C */
+    --color-orange-hsl: 141 65% 31%; /* #1B813E */
     --color-orange: hsl(var(--color-orange-hsl));
     --color-white-hsl: 60 100% 99%; /* #FFFFFC */
     --color-white: hsl(var(--color-white-hsl));
