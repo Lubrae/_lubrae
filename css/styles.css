@@ -18,7 +18,7 @@ main {
     flex: 1 1 auto;
     flex-direction: column;
     justify-content: center;
-    padding: var(--spacing-l) var(--spacing-m) var(--spacing-m) var(--spacing-m);
+    padding: var(--spacing-l) var(--spacing-m) var(--spacing-m)
     row-gap: var(--spacing-l);
     width: 20rem;
 }
